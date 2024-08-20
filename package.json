@@ -1,6 +1,6 @@
 {
   "name": "plugin-chart-bignumber-upgrade",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is the upgraded version of the Big Number charts in the plugin-chart-echarts of Apache Superset, which includes additional features such as the ability to change the text color of the header and subheader, as well as the option to add color to the background.",
   "sideEffects": false,
   "main": "src/index.ts",
