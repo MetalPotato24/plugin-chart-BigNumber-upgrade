@@ -1,7 +1,7 @@
 {
-  "name": "@superset-ui/plugin-chart-bignumber-upgrade",
+  "name": "plugin-chart-bignumber-upgrade",
   "version": "1.0.0",
-  "description": "Superset Chart - Echarts",
+  "description": "This is the upgraded version of the Big Number charts in the plugin-chart-echarts of Apache Superset, which includes additional features such as the ability to change the text color of the header and subheader, as well as the option to add color to the background.",
   "sideEffects": false,
   "main": "lib/index.js",
   "module": "esm/index.js",
@@ -11,18 +11,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apache/superset.git",
+    "url": "git+https://github.com/MetalPotato24/plugin-chart-BigNumber-upgrade.git",
     "directory": "superset-frontend/plugins/plugin-chart-BigNumber-upgrade"
   },
   "keywords": [
     "superset"
   ],
-  "author": "Superset",
+  "author": "Superset, Anika Islam, Adeeb Bin Islam",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/apache/superset/issues"
   },
-  "homepage": "https://github.com/apache/superset/tree/master/superset-frontend/plugins/plugin-chart-BigNumber-upgrade#readme",
+  "homepage": "https://github.com/MetalPotato24/plugin-chart-BigNumber-upgrade/tree/main#readme",
   "publishConfig": {
     "access": "public"
   },
