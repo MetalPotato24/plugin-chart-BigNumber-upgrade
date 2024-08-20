@@ -5,10 +5,6 @@
   "sideEffects": false,
   "main": "lib/index.js",
   "module": "esm/index.js",
-  "files": [
-    "esm",
-    "lib"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MetalPotato24/plugin-chart-BigNumber-upgrade.git",
